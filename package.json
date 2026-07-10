@@ -1,0 +1,13 @@
+{
+  "name": "@cozanet/shared",
+  "version": "0.1.0",
+  "description": "Shared capabilities and interfaces for CozanetOS",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
